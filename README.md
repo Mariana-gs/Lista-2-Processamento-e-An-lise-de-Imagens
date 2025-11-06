@@ -1,6 +1,6 @@
 # Relatório de Segmentação e Análise de Forma: K-means, Otsu e Fecho Convexo
 
-**Autora: Mariana Galvão Soares**
+** Mariana Galvão Soares**
 
 Este repositório contém o código-fonte desenvolvido para o trabalho da disciplina de Processamento e Análise de Imagens.
 
